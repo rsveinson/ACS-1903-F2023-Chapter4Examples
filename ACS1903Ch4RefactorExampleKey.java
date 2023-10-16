@@ -27,6 +27,7 @@ public class ACS1903Ch4RefactorExampleKey{
         prompt = "Enter one side length the triangle.";
         //System.out.println(prompt);
         
+        
         // read in sides
         sideA = getSide(prompt, scanner);
         sideB = getSide(prompt, scanner);
